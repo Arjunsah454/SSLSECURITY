@@ -19,17 +19,17 @@ Primary use:  Weguard
 
 /* PLUGIN CSS */
 
-@import url('../plugins/bootstrap/bootstrap.css');                /* bootstrap */
-@import url('../plugins/slider-pro/slider-pro.css');         /* main slider */
-@import url('../plugins/owl-carousel/owl.carousel.css');              /* other sliders */
-@import url('../plugins/owl-carousel/owl.transitions.css');           /* other sliders */
-@import url('../plugins/owl-carousel/owl.theme.css');                 /* other sliders */
-@import url('../plugins/magnific-popup/magnific-popup.css');            /* modal */
-@import url('../plugins/animate/animate.css');                        /* animations */
-@import url('../plugins/parallax/parallax.css');                        /* parallax */
-@import url('../plugins/flowplayer/skin/playful.css');          /* video-player */
-@import url('../plugins/lwtCountdown/css/light.css');          /* countdown */
-@import url('../plugins/validation/validation-2.2.min.css');          /* validation */
+@import url('../bootstrap/bootstrap.css');                /* bootstrap */
+@import url('../slider-pro/slider-pro.css');         /* main slider */
+@import url('../owl-carousel/owl.carousel.css');              /* other sliders */
+@import url('../owl-carousel/owl.transitions.css');           /* other sliders */
+@import url('../owl-carousel/owl.theme.css');                 /* other sliders */
+/* @import url('../magnific-popup/magnific-popup.css');            modal */
+@import url('../animate/animate.css');                        /* animations */
+@import url('../parallax/parallax.css');                        /* parallax */
+@import url('../flowplayer/skin/playful.css');          /* video-player */
+@import url('../lwtCountdown/css/light.css');          /* countdown */
+@import url('../validation/validation-2.2.min.css');          /* validation */
 
 
 
