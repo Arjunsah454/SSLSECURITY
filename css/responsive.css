@@ -18,7 +18,7 @@
 }
 
 .logo__img {
-  max-width: 100px; /* Adjust the max width of the logo image to fit your design */
+  max-width: 200px; /* Adjust the max width of the logo image to fit your design */
   margin: 0; /* Remove any margins around the logo image */
 
 @media (min-width:1199px) and (max-width:1350px) {
