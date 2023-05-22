@@ -10,7 +10,7 @@
   height: 100px; /* Maintain aspect ratio */
 }
 .logo {
-  padding: -50px; /* Decrease the padding as needed */
+  padding: 50px; /* Decrease the padding as needed */
 }
 .logo {
   display: flex;
